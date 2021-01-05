@@ -1,0 +1,58 @@
+.entete{
+float: right;
+}
+
+.entete-2{
+    display: inline-flex;
+}
+
+.google-center{
+        width: 250px;
+        height: 80px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 150px;
+    }
+
+.lien-1{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkgrey;
+}
+
+.hr-france{
+    background-color: darkgrey;
+    align-items: flex-end;
+}
+
+.buttons {
+    width: 310px;
+    padding-top: 30px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .contour {
+    margin: 0 auto;
+    text-align: center;
+  }
+  #bar {
+    width: 550px;
+    height: 35px;
+    margin-top: 15px;
+    background-color: white;
+  }
+
+  #lien-pied {
+    float: left;
+    margin-bottom: 10px;
+    position: fixed;
+  bottom: 0px;
+  right: 5px;
+  width: 100%;
+  display: flex;
+    justify-content: space-around;
+    background-color: darkgrey;
+  
+  }
